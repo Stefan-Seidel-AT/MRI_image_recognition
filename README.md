@@ -1,8 +1,8 @@
-MRI_image_recongnition on scans of Breast Cancer
+MRI_image_recognition on scans of Breast Cancer
 code by Nick Konz 
 (with minor adaptions by the Stefan Seidel to be able to run it on his hardware)
 
-I have used this tutorial and code by Nick Konz for demonstration and walkthrough purposes only. 
+I have used this tutorial and code by Nick Konz for walkthrough/studying purposes only. 
 The complete tutorial and code can be found here: 
 https://sites.duke.edu/mazurowski/2022/07/13/breast-mri-cancer-detect-tutorial-part1/
 and:
